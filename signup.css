@@ -1,0 +1,16 @@
+section.tank{
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
+.field-body{
+    padding-bottom: 10px;
+}
+.line{
+    font-weight: bolder;
+    font-size: 32px;
+    padding-bottom: 20px;
+}
+.cr{
+    padding-top: 100px ;
+}
